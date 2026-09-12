@@ -1,3 +1,8 @@
+// TaskNotFoundException.java
+// D. Singletary
+// 9/12/2026
+// If the task can't be found, it will throw this instead.
+
 package edu.fscj.cen3024c.taskmanager;
 
 import org.springframework.http.HttpStatus;

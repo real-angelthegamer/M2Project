@@ -1,3 +1,8 @@
+// Task.java
+// D. Singletary and Angel Baez
+// 9/12/2026
+// This sets up all the 5 tasks.
+
 package edu.fscj.cen3024c.taskmanager;
 
 public class Task {
